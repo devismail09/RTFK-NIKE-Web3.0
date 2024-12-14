@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/devismail09/RTFK-NIKE-Web3.0)
 ![GitHub stars](https://img.shields.io/github/stars/devismail09/RTFK-NIKE-Web3.0?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/devismail09/RTFK-NIKE-Web3.0?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/@sandraa_rose78?style=social)](https://twitter.com/intent/follow?screen_name=sandraa_rose78)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sandraa_rose78?style=social)](https://twitter.com/intent/follow?screen_name=sandraa_rose78)
 
 Welcome to the RTFKT x Nike Landing Page project! This repository contains the code and resources for the landing page designed to showcase the collaboration between RTFKT and Nike. The project demonstrates modern web design and development techniques, including responsive design, sleek animations, and an immersive user experience.
 
